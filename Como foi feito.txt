@@ -1,0 +1,12 @@
+Sobre o projeto.
+
+Banco de dados:
+Hospedagem realizada pelo site https://www.freesqldatabase.com;
+Possui uma capacidade de 5MB;
+
+Programa:
+Foi todo escrito em java no NetBeans IDE 7.2 RC1;
+Permite modificar nome sem afetar endereço e vice versa;
+Permite adicionar um contato sem fornecer endereço, mas não permite adicionar contato
+sem fornecer nome ou telefone;
+É possível adicionar um endereço posteriormente.

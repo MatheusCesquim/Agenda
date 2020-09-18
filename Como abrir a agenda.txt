@@ -1,0 +1,4 @@
+Olá, meu nome é Matheus e este é meu projeto para a empresa JN Moura.
+
+Para abrir o arquivo da agenda basta abrir a pasta "Agenda", "dist" e executar o arquivo "Interface"
+ou "Interface.jar".
