@@ -9,7 +9,7 @@ telefônica, podendo conter ou não um endereço associado;
 
 Clicando em "consultar" o programa traz todos os contatos registrados no banco de dados;
 
-Para deletar um usuário basta inserir o telefone na caixa de texto localizada antes de
+Para deletar um usuário basta apenas inserir o telefone na caixa de texto localizada antes de
 "deletar" e em seguida pressionar "deletar;
 
 É possível realizar alterações inserindo o telefone na caixa de texto a frente de
