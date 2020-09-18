@@ -14,4 +14,4 @@ Para deletar um usuário basta apenas inserir o telefone na caixa de texto local
 
 É possível realizar alterações inserindo o telefone na caixa de texto a frente de
 "telefone para localizar', em seguida preencher os campos abaixo com os novos dado
-E posteriormente pressionar "alterar"
+e posteriormente pressionar "alterar"
