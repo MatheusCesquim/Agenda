@@ -2,3 +2,16 @@ Olá, meu nome é Matheus e este é meu projeto para a empresa JN Moura.
 
 Para abrir o arquivo da agenda basta abrir a pasta "Agenda", "dist" e executar o arquivo "Interface"
 ou "Interface.jar".
+
+Como usar:
+Ao preencher os campos de nome e telefone se torna possível cadastrar o usuário na agenda
+telefônica, podendo conter ou não um endereço associado;
+
+Clicando em "consultar" o programa traz todos os contatos registrados no banco de dados;
+
+Para deletar um usuário basta inserir o telefone na caixa de texto localizada antes de
+"deletar" e em seguida pressionar "deletar;
+
+É possível realizar alterações inserindo o telefone na caixa de texto a frente de
+"Telefone para localizar', em seguida preencher os campos a baixo com os novos dado
+E posteriormente pressionar "Alterar"
